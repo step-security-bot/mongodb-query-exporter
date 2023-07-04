@@ -14,7 +14,7 @@ require (
 	github.com/opencontainers/runc v1.1.3 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.16.0
-	github.com/prometheus/client_model v0.3.0
+	github.com/prometheus/client_model v0.4.0
 	github.com/prometheus/common v0.42.0
 	github.com/spf13/afero v1.9.3 // indirect
 	github.com/spf13/cobra v1.7.0
